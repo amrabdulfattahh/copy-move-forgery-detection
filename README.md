@@ -1,1 +1,0 @@
-# copy-move-forgery-detection
